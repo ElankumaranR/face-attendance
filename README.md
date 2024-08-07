@@ -76,16 +76,8 @@ face-attendance/
 ├── utils/                   # Utility functions
 └── README.md                # Project README file
 
-Contributing
 
-Contributions are welcome! Please create an issue or submit a pull request for any improvements or bug fixes.
-License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-Acknowledgements
+    
 
-    OpenCV
-    Face Recognition
-    Any other libraries or resources used
 
-Feel free to modify this README to better fit the specifics of your project.
